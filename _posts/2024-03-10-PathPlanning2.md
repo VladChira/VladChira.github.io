@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trajectory generation for autonomous robots - PART 2: Motion profiling"
+title: "Tutorial - Trajectory generation for autonomous robots - PART 2: Motion profiling"
 date: 2024-03-10 10:00:00 +0300
 categories: [Robotics, Trajectory Generation]
 tags: [robotics, path planning, motion profile, first tech challenge]

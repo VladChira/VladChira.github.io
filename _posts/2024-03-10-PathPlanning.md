@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trajectory generation for autonomous robots - PART 1: Path planning"
+title: "Tutorial - Trajectory generation for autonomous robots - PART 1: Path planning"
 date: 2024-03-10 10:00:00 +0300
 categories: [Robotics, Trajectory Generation]
 tags: [robotics, path planning, motion profile, first tech challenge]
